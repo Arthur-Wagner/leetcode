@@ -1,0 +1,22 @@
+{
+  "name": "leetcode",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Arthur-Wagner/leetcode.git"
+  },
+  "keywords": [
+    "leetcode"
+  ],
+  "author": "arthurwagner",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Arthur-Wagner/leetcode/issues"
+  },
+  "homepage": "https://github.com/Arthur-Wagner/leetcode#readme"
+}
