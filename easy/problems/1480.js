@@ -41,4 +41,3 @@ let betterRunningSum = function(nums) {
 
   return nums;
 }
-console.log(betterRunningSum([1,1,1,1,1]));

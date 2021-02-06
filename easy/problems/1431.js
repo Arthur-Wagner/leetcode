@@ -41,5 +41,3 @@ let kidsWithCandies = function(candies, extraCandies) {
 
   return candies.map( x => (maxValue - x) <= extraCandies);
 }
-
-console.log(kidsWithCandies([2,3,5,1,3], 3));
